@@ -6347,6 +6347,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <plain>
 <text x="93.98" y="20.32" size="1.778" layer="91">~230V, 50Hz</text>
 <text x="-68.58" y="5.08" size="1.778" layer="91">~230V, 50Hz</text>
+<text x="-48.26" y="-35.56" size="1.778" layer="91">will be replaced with TTGO ESP; now is connected according to ESP32-DevKitC pinout</text>
 </plain>
 <instances>
 <instance part="ESP32" gate="G$1" x="0" y="0" rot="R90">
